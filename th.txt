@@ -1,0 +1,52 @@
+<----JAVA SCRIPT --->
+
+js scripting which runs on client side / browser
+
+prog  --> point --> main --> main -->
+
+scripting --> 
+
+compiler and interpreter
+
+engines --> 
+net scape ---> 
+spider monkey --> firefox 
+v8 --> chrome
+safari --> javascript core
+edge --> chakra
+
+
+stacic typing -->
+12 --> int
+
+dynamically typed language -->
+12 -->
+
+justify that javascirt is dynamically typed language
+
+client side --> browser -->web pages --> html,jsp
+
+console....
+
+window  --> BOM
+document ->DOM
+
+--->to manuplate the DOM
+HTML -->
+
+
+version of js
+ES5 --> 2009
+ES6 --> 2015 ecma script 6
+es7 --> 2016
+es8 --> 2017
+es9 --> 2018
+es10 --> 2019
+
+.js --> ext load html
+<script> js
+inline js  --->>
+
+
+
+
