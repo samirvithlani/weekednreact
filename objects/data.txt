@@ -1,0 +1,135 @@
+data ={
+    employee:[
+        {
+            name:"amit",
+            salary:10000,
+            age:25,
+            gender:"Male",
+            child:2,
+            married:true,
+            address:{
+                city:"Delhi",
+                state:"Delhi",
+                pincode:110001
+            }
+
+        },
+        {
+            name:"amita",
+            salary:15000,
+            age:25,
+            gender:"Female",
+            child:1,
+            married:true,
+            address:{
+                city:"Pune",
+                state:"Maharashtra",
+                pincode:110001
+            }
+
+        },
+        {
+            name:"amit",
+            salary:10000,
+            age:25,
+            gender:"Male",
+            child:2,
+            married:true,
+            address:{
+                city:"Delhi",
+                state:"Delhi",
+                pincode:110001
+            }
+
+        }
+    ]
+}
+
+1)find the employee who is married and having 2 child
+2)find female employees whose salary is greater than 15000
+3)find all employee from same city
+4) find employee who is married but not have child and salary > 50000
+5) find employee who is male and salry < 10000 and having child....
+
+
+
+data ={
+    employee:[
+        {
+            name:"amit",
+            salary:10000,
+            age:25,
+            gender:"Male",
+            child:2,
+            married:true,
+            address:{
+                city:"Delhi",
+                state:"Delhi",
+                pincode:110001
+            },
+            savings:[
+                {
+                    name:"savings ac",
+                    amount:10000
+                },
+                {
+                    name:"fixed deposit",
+                    amount:10000
+                }
+            ]
+
+        },
+        {
+            name:"amita",
+            salary:15000,
+            age:25,
+            gender:"Female",
+            child:1,
+            married:true,
+            address:{
+                city:"Pune",
+                state:"Maharashtra",
+                pincode:110001
+            },
+            savings:[
+                {
+                    name:"savings ac",
+                    amount:10000
+                },
+                {
+                    name:"fixed deposit",
+                    amount:10000
+                }
+            ]
+
+        },
+        {
+            name:"amit",
+            salary:10000,
+            age:25,
+            gender:"Male",
+            child:2,
+            married:true,
+            address:{
+                city:"Delhi",
+                state:"Delhi",
+                pincode:110001
+            },
+            savings:[
+                {
+                    name:"savings ac",
+                    amount:10000
+                },
+                {
+                    name:"fixed deposit",
+                    amount:10000
+                }
+            ]
+
+        }
+    ]
+}
+
+1)pass employee name and find total amount of savings
+2) which gender have more savings
+3) find employee who have more savings

@@ -48,5 +48,32 @@ es10 --> 2019
 inline js  --->>
 
 
+country --> states -->
+
+data = [
+    countries:[
+        name: "India",
+        states:[
+            name: "AP",
+            cities:[
+                name: "Hyd"
+            ]
+        ]
+    ]
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
